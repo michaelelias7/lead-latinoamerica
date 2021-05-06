@@ -2,11 +2,35 @@ module.exports = [
   {
     title: 'Mission Bit Summer Code Program', 
     content: 'There is a program that teaches high schoolers to code in the most fun way possible.', 
-    bio: 'Mission Bit has been around for many years, helping communities in Mission Bay.', 
+    bio: 'Mission Bit has been around for many years, helping empower youth through coding in the Mission District community.', 
     helpsWith: ['Programming Skills', 'Critical Thinking', 'Javascript', 'Algorithms', 'Communication'], 
     coverImage: '', 
     tags: ['code', 'program', 'summer', 'teaching'],
     organization: 'Mission Bit'
+  }, 
+]
+
+[
+  {
+    title: 'SF Youth Theater Summer Program', 
+    content: 'This program promotes creative expression through theater, culminating a play at the summer!', 
+    bio: 'Mission Bit has been around for many years, helping communities in Mission Bay.', 
+    helpsWith: ['Theater', 'Art', 'Acting'], 
+    coverImage: '', 
+    tags: ['theater', 'program', 'summer', 'performance'],
+    organization: 'SF Youth Theater'
+  }, 
+]
+  
+  [
+  {
+    title: 'Y Bike', 
+    content: 'This program allows students to learn about bicycle mechanics through hands-on experience. Students receive a free bike at the end of the program!', 
+    bio: 'Y Bike is a program under the SF YMCA.', 
+    helpsWith: ['Bike Riding', 'Transportation'], 
+    coverImage: '', 
+    tags: ['bike', 'program', 'summer', 'performance', 'bicycle'],
+    organization: 'Y Bike'
   }, 
 ]
 
