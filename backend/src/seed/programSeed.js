@@ -10,6 +10,18 @@ module.exports = [
   }, 
 ]
 
+module.exports = [
+  {
+    title: 'Test', 
+    content: 'Test', 
+    bio: 'Test', 
+    helpsWith: ['Programming Skills', 'Critical Thinking', 'Javascript', 'Algorithms', 'Communication'], 
+    coverImage: '', 
+    tags: ['code', 'program', 'summer', 'teaching'],
+    organization: 'Test'
+  }, 
+]
+
 /*
   SAMPLE OBJECT 
   {
